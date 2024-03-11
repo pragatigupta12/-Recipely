@@ -1,0 +1,1 @@
+# Users can search recipes by dish names. Recipely fetches relevant recipes from the Recipe API and presents them in an organized manner
